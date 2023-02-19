@@ -1,0 +1,26 @@
+[
+    {
+        "JavaScript": [{
+                "id": 1,
+                "ReleaseDate" : "1-2-2023",
+                "Available": true,
+                "Reader": {
+                    "1": "Abdullah",
+                    "2": "Khaled",
+                    "3": "Ali"
+                }
+        }   
+]}, 
+{
+    "Python": [{
+            "id": 2,
+            "ReleaseDate" : "14-5-2014",
+            "Available": true,
+            "Reader": {
+                "1": "Ahmed",
+                "2": "Essa",
+                "3": "Haitham"
+            }
+    }   
+]}
+]
